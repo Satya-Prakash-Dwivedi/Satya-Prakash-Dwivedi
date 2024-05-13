@@ -1,9 +1,27 @@
-Hi, I am Satya Prakash Dwivedi, a passionate self taught front-end web developer and a student who likes to contribute in society by educating school students. 
-My passion for software lies with dreaming ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+## Satya Prakash Dwivedi
 
-I am also an open source contributor, who likes to grow and give back to community and network with people.
-I love how collaboration and knowledge sharing happened through open-source.
+**Full-Stack Developer**
 
-Languages = java, c++, python, HTML, CSS, JS, Golang.
+I'm Satya Prakash Dwivedi, a passionate full-stack developer with a strong foundation in web development principles. I leverage the MERN stack (MongoDB, Express.js, React.js, Node.js) to create robust and user-friendly web applications. My journey began with a love for front-end development, and I've since expanded my skillset to encompass back-end development as well.
 
-Ask me about anything, I am happy to help.
+**Technical Skills**
+
+* **Front-End Development:** HTML, CSS, JavaScript (ES6+), React.js
+* **Back-End Development:** Node.js, Express.js
+* **Database:** MongoDB
+
+**Values and Approach**
+
+* **Building impactful experiences:** I'm driven by the desire to create well-designed web applications that solve real-world problems and enhance user experiences.
+* **Collaboration and open-source:** I believe in the power of collaboration and knowledge sharing. Open-source projects have played a significant role in my growth, and I'm always open to contributing to the community.
+* **Continuous learning:** I'm a firm believer in lifelong learning and am constantly striving to expand my knowledge base and stay up-to-date with the latest technologies.
+
+**Connect with Me**
+
+* [LinkedIn](https://www.linkedin.com/in/satya-prakash-dwivedi/)
+* [GitHub](https://github.com/Satya-Prakash-Dwivedi)
+* [X](https://twitter.com/Satyastwt)
+
+**Ask Me Anything**
+
+I'm always happy to connect and discuss web development, technology, or anything else that interests you. Feel free to reach out!

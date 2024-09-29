@@ -1,4 +1,4 @@
-# ![Satya Prakash Dwivedi Logo](https://your-logo-url.com/logo.png)
+
 
 # Satya Prakash Dwivedi
 

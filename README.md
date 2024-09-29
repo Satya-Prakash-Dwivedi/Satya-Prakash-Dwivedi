@@ -17,14 +17,6 @@ I'm **Satya Prakash Dwivedi**, a passionate full-stack developer focused on buil
 
 ---
 
-## 🌟 Featured Projects
-
-| Project                           | Description                                                                |
-|------------------------------------|----------------------------------------------------------------------------|
-| **AI-Powered Web Assistant**       | Smart AI assistant for natural language-based website navigation            |
-| **E-Commerce Platform**            | Full-stack MERN e-commerce with AI-driven product recommendations           |
-| **Personal Task Manager**          | Task management app with AI suggestions and clean UI                        |
-
 ---
 
 ### **Values and Approach**

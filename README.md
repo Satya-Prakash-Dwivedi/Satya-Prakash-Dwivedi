@@ -1,4 +1,4 @@
-(https://cdn.dribbble.com/users/2208826/screenshots/6729642/ezgif.com-optimize.gif)
+![Hi 👋🏻](https://cdn.dribbble.com/users/2208826/screenshots/6729642/ezgif.com-optimize.gif)
 
 ## 🧑🏻‍💻 About Me
 

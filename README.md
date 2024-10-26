@@ -1,4 +1,5 @@
-![Hi 👋🏻](https://cdn.dribbble.com/users/2208826/screenshots/6729642/ezgif.com-optimize.gif)
+![Hi 👋🏻](https://github.com/Satya-Prakash-Dwivedi/Social-Media-Dashboard/blob/main/Images/ball.gif?raw=true)
+
 
 ## 🧑🏻‍💻 About Me
 

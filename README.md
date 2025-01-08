@@ -1,7 +1,4 @@
-![Hi 👋🏻](https://github.com/Satya-Prakash-Dwivedi/Social-Media-Dashboard/blob/main/Images/ball.gif?raw=true)
-
-
-## 🧑🏻‍💻 About Me
+![Hi 👋🏻]
 
 My name is **Satya Prakash Dwivedi**, and I am a **Software Engineer**.
 
